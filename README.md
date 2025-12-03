@@ -19,7 +19,6 @@ Before 2022 worked as a Project Manager, in spring 2022 had to join the Armed Fo
 | Notehub | Development of a web application for managing notes with API-based storage, including user registration and authentication. Designed and implemented dynamic UI components to ensure a seamless user experience. Integrated third-party libraries to optimize data handling and improve interface interactivity. | [Live](https://note-hub-phi.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/notehub) |
 | Rent-a-ride | Rent-a-Ride is a modern, lightweight car rental web application built with React + TypeScript.
 Users can browse a catalog of cars, filter by brand, price, and mileage, view detailed information, and simulate bookings — all within a smooth, responsive UI.
-
 I built this project to strengthen my frontend skills and explore real-world app architecture, including state management, routing, and API handling. | [Live](https://rent-a-ride-azure.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/rent-a-ride) |
 
 ### Nestly
