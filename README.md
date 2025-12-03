@@ -17,7 +17,10 @@ Before 2022 worked as a Project Manager, in spring 2022 had to join the Armed Fo
 |---|---|---|
 | Nestly | Collaborative development of a web application for expectant mothers, featuring a dashboard, pregnancy calendar, personal diary, and user profile with registration and authentication. Designed and implemented dynamic UI components to ensure a seamless user experience. Integrated third-party libraries to optimize data handling and enhance interface interactivity. | [Live](nestly-six.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/nestly) |
 | Notehub | Development of a web application for managing notes with API-based storage, including user registration and authentication. Designed and implemented dynamic UI components to ensure a seamless user experience. Integrated third-party libraries to optimize data handling and improve interface interactivity. | [Live](https://note-hub-phi.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/notehub) |
-| Rent-a-ride | Rent-a-Ride is a modern, lightweight car rental web application built with React + TypeScript.Users can browse a catalog of cars, filter by brand, price, and mileage, view detailed information, and simulate bookings — all within a smooth, responsive UI.I built this project to strengthen my frontend skills and explore real-world app architecture, including state management, routing, and API handling. | [Live](https://rent-a-ride-azure.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/rent-a-ride) |
+| Rent-a-ride | Rent-a-Ride is a modern, lightweight car rental web application built with React + TypeScript.
+Users can browse a catalog of cars, filter by brand, price, and mileage, view detailed information, and simulate bookings — all within a smooth, responsive UI.
+
+I built this project to strengthen my frontend skills and explore real-world app architecture, including state management, routing, and API handling. | [Live](https://rent-a-ride-azure.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/rent-a-ride) |
 
 ### Nestly
 
@@ -44,10 +47,6 @@ Before 2022 worked as a Project Manager, in spring 2022 had to join the Armed Fo
 ### 💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 💻 Mobile App Development
-
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### 💻 Frontend Development
 
