@@ -11,26 +11,6 @@
 Junior Frontend developer, proficient in HTML5, CSS, Java Script, Type Script, Vite, React and Next.js. Experienced in working with specific libraries.
 Before 2022 worked as a Project Manager, in spring 2022 had to join the Armed Forces to protect our Motherland. Three years later demobilized.
 
-## 🚀 Projects
-
-| Project | Description | Links |
-|---|---|---|
-| Nestly | Collaborative development of a web application for expectant mothers, featuring a dashboard, pregnancy calendar, personal diary, and user profile with registration and authentication. Designed and implemented dynamic UI components to ensure a seamless user experience. Integrated third-party libraries to optimize data handling and enhance interface interactivity. | [Live](nestly-six.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/nestly) |
-| Notehub | Development of a web application for managing notes with API-based storage, including user registration and authentication. Designed and implemented dynamic UI components to ensure a seamless user experience. Integrated third-party libraries to optimize data handling and improve interface interactivity. | [Live](https://note-hub-phi.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/notehub) |
-| Rent-a-ride | Rent-a-Ride is a modern, lightweight car rental web application built with React + TypeScript.Users can browse a catalog of cars, filter by brand, price, and mileage, view detailed information, and simulate bookings — all within a smooth, responsive UI.I built this project to strengthen my frontend skills and explore real-world app architecture, including state management, routing, and API handling. | [Live](https://rent-a-ride-azure.vercel.app/) / [GitHub](https://github.com/vitalii-cherukha/rent-a-ride) |
-
-### Nestly
-
-**Technologies Used:** Trello · TypeScript · Axios · React · Next.js · GitHub · Zustand · Cascading Style Sheets (CSS) · REST APIs
-
-### Notehub
-
-**Technologies Used:** Trello · TypeScript · Axios · React · Next.js · Zustand · Cascading Style Sheets (CSS) · REST APIs
-
-### Rent-a-ride
-
-**Technologies Used:** React, REST APIs, Zustand, Tailwind CSS, HTML5, TypeScript, Axios, React Router, Vite
-
 ## 🌐 Connect with Me
 
 <div align="center">
