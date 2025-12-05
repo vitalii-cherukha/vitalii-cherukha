@@ -190,17 +190,6 @@ console.log(vitalii.codePhilosophy());
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/vitalii-cherukha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitalii-cherukha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/vitalii-cherukha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalii-cherukha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
-</a>
-
-</div>
 
 <div align="center">
   <a href="https://github.com/vitalii-cherukha">
@@ -213,14 +202,6 @@ console.log(vitalii.codePhilosophy());
 <div align="center">
   <a href="https://github.com/vitalii-cherukha">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitalii-cherukha&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true&height=300" width="95%"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/vitalii-cherukha">
-    <img src="https://github-profile-trophy.vercel.app/?username=vitalii-cherukha&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%"/>
   </a>
 </div>
 
@@ -278,12 +259,6 @@ while (alive) {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitalii-cherukha)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalii.cherukha@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitalii_ch)
-
-<br/>
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
