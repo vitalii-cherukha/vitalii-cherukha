@@ -193,14 +193,6 @@ console.log(vitalii.codePhilosophy());
 
 <div align="center">
   <a href="https://github.com/vitalii-cherukha">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vitalii-cherukha&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/vitalii-cherukha">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitalii-cherukha&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true&height=300" width="95%"/>
   </a>
 </div>
