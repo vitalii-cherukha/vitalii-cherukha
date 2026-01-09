@@ -222,7 +222,7 @@ const currentFocus = {
     learning: ['Advanced TypeScript', 'React Performance', 'System Design'],
     building: ['Responsive Web Apps', 'Modern UI/UX', 'Scalable Solutions'],
     exploring: ['Open Source Contributions', 'Web3', 'AI Integration'],
-    goal: 'Becoming a Senior Frontend Developer 🎯'
+    goal: 'Becoming a Senior Fullstack Developer 🎯'
 };
 
 // Always coding, always learning! 🚀
