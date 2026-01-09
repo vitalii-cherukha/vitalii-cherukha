@@ -45,9 +45,9 @@ class Developer {
     role: string = "Junior Frontend Developer";
     
     journey: string[] = [
-        "📊 Project Manager (Pre-2022)",
-        "🛡️ Armed Forces of Ukraine (2022-2024)",
-        "💻 Frontend Developer (2024-Present)"
+        "📊 Project Manager (2019-2022)",
+        "🛡️ Armed Forces of Ukraine (2022-2025)",
+        "💻 Frontend Developer (2025-Present)"
     ];
     
     currentFocus: string[] = [
