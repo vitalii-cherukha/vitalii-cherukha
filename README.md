@@ -266,11 +266,3 @@ while (alive) {
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&animation=fadeIn" width="100%"/>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-</div>
