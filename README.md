@@ -1,268 +1,92 @@
 <div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Vitalii Cherukha - Tech Lead and Full-Stack Developer. ERP and CRM systems, servers and deploys, native iOS and Android games. Kyiv, Ukraine." />
+</div>
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Vitalii%20Cherukha&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Frontend%20Developer%20|%20Kyiv%20🇺🇦&descAlignY=51&descSize=20" width="100%"/>
-
-<!-- Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vitalii;Frontend+Developer+%F0%9F%92%BB;From+Kyiv%2C+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Building+Amazing+Web+Apps+%F0%9F%9A%80;Let's+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Badges with Glow Effect -->
-<p>
-  <a href="https://github.com/vitalii-cherukha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/vitalii-cherukha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vitalii.cherukha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-  </a>
-  <a href="https://t.me/vitalii_ch">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitalii-cherukha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vitalii.cherukha@gmail.com"><img src="https://img.shields.io/badge/Email-vitalii.cherukha%40gmail.com-58a6ff?style=flat-square" alt="Email" /></a>
+  <a href="https://t.me/Vitalii_CH"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<!-- Profile Views with Animation -->
-<img src="https://komarev.com/ghpvc/?username=vitalii-cherukha&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+I'm a tech lead and full-stack developer from Kyiv. I build ERP and CRM systems for manufacturing and B2B companies and take them all the way: from the first specification to the production server. After hours I make my own mobile games in native Swift and Kotlin.
 
-</div>
+Most of my work is client code under NDA, so the repositories are private. The contribution graph below counts that work too.
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-```typescript
-class Developer {
-    name: string = "Vitalii Cherukha";
-    location: string = "Kyiv, Ukraine 🇺🇦";
-    role: string = "Junior Frontend Developer";
-    
-    journey: string[] = [
-        "📊 Project Manager (2019-2022)",
-        "🛡️ Armed Forces of Ukraine (2022-2025)",
-        "💻 Frontend Developer (2025-Present)"
-    ];
-    
-    currentFocus: string[] = [
-        "Building modern web applications",
-        "Mastering React & Next.js ecosystem",
-        "Contributing to open-source"
-    ];
-    
-    codePhilosophy(): string {
-        return "Write code that speaks for itself 🚀";
-    }
-}
-
-const vitalii = new Developer();
-console.log(vitalii.codePhilosophy());
-```
-
-<details>
-<summary><b>📖 My Story</b></summary>
-<br/>
-
-> **"From managing projects to defending my homeland, now I'm building the digital future."**
-
-- 🎯 **Project Manager** → Led cross-functional teams and delivered complex projects
-- 🛡️ **Defender** → Served in the Armed Forces of Ukraine during critical times
-- 💻 **Developer** → Transitioned to tech, bringing leadership and dedication to code
-
-**What drives me:** The same determination that kept me going through challenges now fuels my passion for creating exceptional web experiences.
-
-</details>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Frontend Technologies
+## What I do
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <th width="33%">Lead</th>
+    <th width="33%">Build</th>
+    <th width="33%">Ship</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      Architecture and technical specifications<br/>
+      Code and migration review before every release<br/>
+      QA gate, demos, reporting to PMs and clients<br/>
+      AI-assisted workflows behind review and test gates
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
+    <td valign="top">
+      ERP/CRM modules: sales, production, warehouse, procurement, payments<br/>
+      Data migration from Bitrix24 and 1C<br/>
+      Integrations: telephony, mail, Telegram, LLM APIs<br/>
+      Native iOS and Android apps
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+    <td valign="top">
+      Linux servers, Docker Compose, Caddy<br/>
+      Releases through staging to production<br/>
+      CI/CD on GitHub Actions with rollback<br/>
+      Backups, restore and incident response
     </td>
   </tr>
 </table>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Backend & Database
+## A few numbers
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-  </tr>
-</table>
+- **6** ERP/CRM systems where I lead engineering
+- **250,000+** CRM records migrated and reconciled against the source
+- **600 to 3,800+** automated tests on one system
+- **90%** smaller JavaScript bundle and a dashboard that loads **3x** faster
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Tools & Platforms
+## Side projects: four mobile games
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
+I build them in parallel under my own label, CHE.tech. Each game has two native apps, SwiftUI and Jetpack Compose, that share one set of rules and are checked against the same test vectors.
 
-</div>
+| Game | Genre | Under the hood |
+| --- | --- | --- |
+| **Durak Elite** | Online multiplayer card game | iOS/Android cross-play, Fastify and WebSocket backend on AWS |
+| **Road Home** | Story-driven match-3 | Deterministic engines in Swift and Kotlin, 600 levels, 1,500+ automated tests |
+| **Potion Bottles** | Bottle-sort puzzle | Twin engines with bit-identical results, level generator with a solver |
+| **Soft Stories** | Interactive visual novel | Own script format with hand-written parsers in Kotlin and Swift |
 
-<br/>
+## Tech stack
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,express,fastapi,py,postgres,redis,supabase,dynamodb,docker,linux,nginx,bash,aws,githubactions,git,swift,kotlin,androidstudio,firebase,figma,postman&perline=13" alt="TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, FastAPI, Python, PostgreSQL, Redis, Supabase, DynamoDB, Docker, Linux, Nginx, Bash, AWS, GitHub Actions, Git, Swift, Kotlin, Android Studio, Firebase, Figma, Postman" />
+</p>
 
-<br/>
+<p align="center">
+  <sub>Also: TanStack Query/Router/Start · Zod · PostgREST · pgvector · Caddy · MinIO · SwiftUI · SpriteKit · Jetpack Compose · StoreKit 2 · Play Billing · Vitest · pytest · XCTest · Claude Code</sub>
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+## Activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vitalii-cherukha&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e&stroke=30363d&border=30363d&border_radius=12" alt="Contribution streak" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/vitalii-cherukha">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitalii-cherukha&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true&height=300" width="95%"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitalii-cherukha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&radius=12&custom_title=Contributions%2C%20private%20work%20included" width="100%" alt="Contribution activity graph" />
+</p>
 
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitalii-cherukha/vitalii-cherukha/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/vitalii-cherukha/vitalii-cherukha/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
+  </picture>
+</p>
 
-<!-- GitHub Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vitalii-cherukha/vitalii-cherukha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+## Journey
 
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus
-
-<div align="center">
-
-```javascript
-const currentFocus = {
-    learning: ['Advanced TypeScript', 'React Performance', 'System Design'],
-    building: ['Responsive Web Apps', 'Modern UI/UX', 'Scalable Solutions'],
-    exploring: ['Open Source Contributions', 'Web3', 'AI Integration'],
-    goal: 'Becoming a Senior Fullstack Developer 🎯'
-};
-
-// Always coding, always learning! 🚀
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitalii-cherukha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitalii-cherukha)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalii.cherukha@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitalii_ch)
-
-<br/>
-
-### ✨ *"Code is poetry written in logic"*
-
-<br/>
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-</div>
-
-<br/>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&animation=fadeIn" width="100%"/>
+`2020` Project manager, construction projects &nbsp;→&nbsp; `2022` Armed Forces of Ukraine, unit commander &nbsp;→&nbsp; `2025` Full-stack developer &nbsp;→&nbsp; `2026` Tech lead, ERP and CRM systems
